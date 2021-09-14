@@ -6,6 +6,7 @@
    "telegram",
    "FiletoLinkBot"
   ],
+ "stack": "heroku-18",
  "repository": "https://github.com/TGExplore/TG-Files-to-Link",
  "env": {
    "TG_API_ID": {
